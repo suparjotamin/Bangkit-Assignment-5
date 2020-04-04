@@ -15,7 +15,7 @@ Analysis from the data to give some insight which is can be used for optimizing 
 3. **Modelling** <br>
 Modifying data and create model to predict the target using the given features
 
-This repository also includes the slide from our project
+This repository also includes the slide of our project
 
 ### Dataset
 The dataset that the contributors use is from https://www.kaggle.com/sharanmk/bank-marketing-term-deposit. with the credits goes to UCI for providing the data set in https://archive.ics.uci.edu/ml/datasets/bank+marketing# from the research of [Moro et al., 2014].
